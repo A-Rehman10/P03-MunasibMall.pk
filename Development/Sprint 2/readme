@@ -1,4 +1,4 @@
-Implemented Usecase (Sprint 2):
+Implemented Usecase in Sprint-2:
 View number of items in the shopping cart
 Add products to shopping cart
 Alter quantity of items in the shopping cart
@@ -6,5 +6,10 @@ Clear Cart
 Login with fingerprint
 User Inactivity Logout (15mins)
 
+
+
 Front-end code pushed in sprint2_front branch
 Backend code pushed in sprint2 branch
+
+Backend deployed on heroku.
+Funtionality implemented uptill Sprint 2 can be seen in the APK file sent on slack.
