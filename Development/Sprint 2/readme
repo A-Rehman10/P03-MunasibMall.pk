@@ -1,1 +1,7 @@
-
+Implemented Usecase:
+View number of items in the shopping cart
+Add products to shopping cart
+Alter quantity of items in the shopping cart
+Clear Cart
+Login with fingerprint
+User Inactivity Logout (15mins)
