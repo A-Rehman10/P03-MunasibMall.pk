@@ -1,7 +1,7 @@
 # P03-MunasibMall.pk
 
 
-Implemented usecases
+Implemented usecases sprint 1
 1)	The user will be able to register to become a merchant
 2)	The user will be able to sign in using their credentials to be able to see their dashboard.
 3)	Merchants will be able to edit their profile information
